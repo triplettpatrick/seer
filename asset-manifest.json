@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/seer/static/css/main.06bd1000.css",
+    "main.js": "/seer/static/js/main.a2874cae.js",
+    "index.html": "/seer/index.html",
+    "main.06bd1000.css.map": "/seer/static/css/main.06bd1000.css.map",
+    "main.a2874cae.js.map": "/seer/static/js/main.a2874cae.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06bd1000.css",
+    "static/js/main.a2874cae.js"
+  ]
+}
